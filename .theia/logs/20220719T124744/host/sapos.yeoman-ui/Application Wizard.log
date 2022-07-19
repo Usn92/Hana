@@ -1,0 +1,14 @@
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - env.on(error) The generator encountered an error: Error: Failed to create the service \"HanaCloud-hdidb-ws-tmjcm\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HanaCloud-hdidb-ws-tmjcm': There is no database available. Ensure that you have a database available in space 'dev' within organization '244a4c5etrial'.\n",
+  "stack": "Error: env.on(error) The generator encountered an error: Error: Failed to create the service \"HanaCloud-hdidb-ws-tmjcm\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HanaCloud-hdidb-ws-tmjcm': There is no database available. Ensure that you have a database available in space 'dev' within organization '244a4c5etrial'.\n\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/generator-hdb-module/index.js:707:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/generator-hdb-module/index.js:702:14)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "time": "2022-07-19T14:38:50.056Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - process.on(uncaughtException) env.on(error) The generator encountered an error: Error: Failed to create the service \"HanaCloud-hdidb-ws-tmjcm\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HanaCloud-hdidb-ws-tmjcm': There is no database available. Ensure that you have a database available in space 'dev' within organization '244a4c5etrial'.\n",
+  "stack": "Error: env.on(error) The generator encountered an error: Error: Failed to create the service \"HanaCloud-hdidb-ws-tmjcm\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HanaCloud-hdidb-ws-tmjcm': There is no database available. Ensure that you have a database available in space 'dev' within organization '244a4c5etrial'.\n\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/generator-hdb-module/index.js:707:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/generator-hdb-module/index.js:702:14)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "time": "2022-07-19T14:38:50.066Z"
+}
